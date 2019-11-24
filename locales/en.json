@@ -1,0 +1,16 @@
+{
+	"adsList": "Ads List",
+	"listing": "Listing: ",
+	"name": "name",
+	"sold": "sold",
+	"price": "price",
+	"picture": "picture",
+	"tags": "tags",
+	"examples": "examples",
+	"filterAll": "Filter all",
+	"pagination": "pagination",
+	"sortPriceAsc": "Sort price ascending",
+	"sortPriceDesc": "Sort price descending",
+	"sortTagMobile": "Sort tag mobile",
+	"backHome": "Back home"
+}

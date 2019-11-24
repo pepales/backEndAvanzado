@@ -1,0 +1,16 @@
+{
+	"adsList": "Lista de Anuncios",
+	"listing": "Listando: ",
+	"name": "nombre",
+	"sold": "venta",
+	"price": "precio",
+	"picture": "foto",
+	"tags": "tags",
+	"examples": "Ejemplos: ",
+	"filterAll": "Todos (max. 1000)",
+	"pagination": "Paginado",
+	"sortPriceAsc": "Ordenado por precio ascendente",
+	"sortPriceDesc": "Ordenado por precio descendente",
+	"sortTagMobile": "Con tag mobile",
+	"backHome": "Volver a la home"
+}
