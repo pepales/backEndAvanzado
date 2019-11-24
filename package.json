@@ -6,8 +6,7 @@
     "start": "node ./bin/www",
     "dev": "cross-env DEBUG=nodeapi:* nodemon",
     "hints": "jshint . && ./node_modules/.bin/jscs . || true",
-    "installDB": "node install_db.js",
-    "addUserDB": "node addUserDB.js"
+    "installDB": "node install_db.js"
   },
   "dependencies": {
     "async": "^1.4.2",
